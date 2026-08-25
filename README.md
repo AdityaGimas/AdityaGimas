@@ -1,11 +1,11 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:2c5364&height=180&section=header&text=Aditya%20Gimas&fontSize=46&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Information%20Technology%20Student%20%7C%20Udayana%20University&descAlignY=60&descSize=17" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:2c5364&height=160&section=header&text=Aditya%20Gimas&fontSize=44&fontColor=ffffff&fontAlignY=40&desc=Information%20Technology%20Student%20%7C%20Udayana%20University&descAlignY=62&descSize=16" />
 
 <br>
 
 <a href="https://www.linkedin.com/in/kadek-aditya-gimas-tangkas-kori-agung-902a80369/">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=520&lines=Machine+Learning;Computer+Vision;Data+%26+Intelligent+Systems" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=17&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=500&lines=Machine+Learning;Computer+Vision;Data+%26+Intelligent+Systems" />
 </a>
 
 </div>
@@ -16,29 +16,18 @@
 
 I'm an Information Technology student at **Universitas Udayana** interested in **Machine Learning, Computer Vision, NLP, and data-driven systems**.
 
-I enjoy building practical applications by combining machine learning models, APIs, databases, and modern interfaces.
+Currently learning and building projects around AI and software development.
 
 <br>
 
 ## Projects
 
-* **[StockSense LQ45](https://github.com/AdityaGimas/dsp)**
-  Stock analysis platform with forecasting, sentiment analysis, and AI assistant.
-
-* **[Workflow-CI](https://github.com/AdityaGimas/Workflow-CI)**
-  Machine learning workflow using MLflow and GitHub Actions.
-
-* **[Kopiseru Dashboard](https://github.com/AdityaGimas/DataAnalyticdanVisualization)**
-  Interactive business analytics dashboard built with Streamlit.
-
-* **[Bike Sharing Analysis](https://github.com/AdityaGimas/AnalisisDataBikeSharing)**
-  Data analysis and visualization of bike-sharing patterns.
-
-* **Waste Detection**
-  Real-time waste detection and classification using YOLOv8.
-
-* **Automatic Question Generation**
-  Research on generating questions from Indonesian academic writing using Small Language Models.
+* **[StockSense LQ45](https://github.com/AdityaGimas/dsp)** — Stock analysis and forecasting platform.
+* **[Workflow-CI](https://github.com/AdityaGimas/Workflow-CI)** — ML workflow with MLflow and GitHub Actions.
+* **[Kopiseru Dashboard](https://github.com/AdityaGimas/DataAnalyticdanVisualization)** — Business analytics dashboard using Streamlit.
+* **[Bike Sharing Analysis](https://github.com/AdityaGimas/AnalisisDataBikeSharing)** — Data analysis and visualization.
+* **Waste Detection** — Real-time waste detection using YOLOv8.
+* **Automatic Question Generation** — AQG research using Small Language Models.
 
 <br>
 
@@ -59,10 +48,6 @@ I enjoy building practical applications by combining machine learning models, AP
 <img height="165" src="https://github-readme-stats.vercel.app/api?username=AdityaGimas&show_icons=true&hide_border=true&theme=github_dark&include_all_commits=true&count_private=true" />
 
 <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AdityaGimas&layout=compact&hide_border=true&theme=github_dark&langs_count=6" />
-
-<br><br>
-
-<img width="70%" src="https://github-readme-streak-stats.herokuapp.com/?user=AdityaGimas&theme=github-dark-blue&hide_border=true" />
 
 </div>
 
@@ -88,8 +73,4 @@ I enjoy building practical applications by combining machine learning models, AP
 
 <br>
 
-<div align="center">
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,100:0f2027&height=90&section=footer" />
-
-</div>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,100:0f2027&height=80&section=footer" />
