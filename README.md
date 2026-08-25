@@ -16,7 +16,6 @@
   <li>🗑️ Real-time waste detection & classification system using <b>YOLOv8</b> for a Computer Vision course project in Bali</li>
   <li>📈 <b>StockSense LQ45</b> — an Indonesian-language stock dashboard with ML forecasting, sentiment analysis, and an AI chat assistant</li>
   <li>📊 Data analytics dashboards (Streamlit) for business & operational data</li>
-  <li>📝 Research on Automatic Question Generation (AQG) using Small Language Models for Indonesian academic writing</li>
 </ul>
 
 <hr style="border: 1px solid #30363d;"/>
