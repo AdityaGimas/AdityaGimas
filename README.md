@@ -1,108 +1,243 @@
-<h1 align="center">Hi 👋, I'm Aditya Gimas</h1>
-<h3 align="center">Information Technology Student @ Udayana University | Machine Learning • Computer Vision • FinTech</h3>
+<div align="center">
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=AdityaGimas&label=Profile%20views&color=0e75b6&style=flat" alt="AdityaGimas" />
-</p>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:2c5364&height=190&section=header&text=Aditya%20Gimas&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Information%20Technology%20Student%20%7C%20AI%20%26%20Machine%20Learning&descAlignY=60&descSize=17" />
 
-<p align="left">
-🚀 I'm an IT student at Universitas Udayana who enjoys building end-to-end ML/CV systems — from real-time object detection to financial forecasting dashboards. Currently exploring Small Language Models (SLMs), and diving deeper into IoT and database systems along the way.
-</p>
+<a href="https://www.linkedin.com/in/kadek-aditya-gimas-tangkas-kori-agung-902a80369/">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=19&duration=3000&pause=900&color=58A6FF&center=true&vCenter=true&width=620&lines=AI+%26+Machine+Learning;Computer+Vision+%26+NLP;Data+%26+Intelligent+Systems;Building+End-to-End+Applications" />
+</a>
 
-<p align="left">
-🔭 Some things I've been building:
-</p>
-<ul align="left">
-  <li>🗑️ Real-time waste detection & classification system using <b>YOLOv8</b> for a Computer Vision course project in Bali</li>
-  <li>📈 <b>StockSense LQ45</b> — an Indonesian-language stock dashboard with ML forecasting, sentiment analysis, and an AI chat assistant</li>
-  <li>📊 Data analytics dashboards (Streamlit) for business & operational data</li>
-</ul>
+</div>
 
-<hr style="border: 1px solid #30363d;"/>
+<br>
 
-<h3 align="left">🌍 Connect with me:</h3>
-<p align="left">
-  <a href="https://www.linkedin.com/in/kadekadityagimastangkaskoriagung/" target="blank">
-    <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="linkedin" height="30" width="40" style="filter: invert(46%) sepia(98%) saturate(1729%) hue-rotate(190deg);" />
-  </a>
-  <a href="mailto:tangkaskori05@gmail.com" target="blank">
-    <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/gmail.svg" alt="gmail" height="30" width="40" />
-  </a>
-  <a href="https://instagram.com/aditangkas__" target="blank">
-    <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="Instagram" height="30" width="40" />
-  </a>
-</p>
+## 👋 About Me
 
-<hr style="border: 1px solid #30363d;"/>
+I'm an **Information Technology student at Universitas Udayana** with an interest in building intelligent, data-driven applications.
 
-<h3 align="left">🛠️ Tech Stack:</h3>
-<p align="left">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" />
-  <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" />
-  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
-  <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" />
-  <br/>
-  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" />
-  <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" />
-  <img src="https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white" />
-  <img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white" />
-  <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-</p>
+My current focus is around **Artificial Intelligence, Machine Learning, Computer Vision, NLP, and data-driven systems** — combining models, APIs, databases, and interfaces into practical applications.
 
-<hr style="border: 1px solid #30363d;"/>
+I'm currently exploring **Small Language Models (SLMs)** and intelligent systems for academic and real-world use cases.
 
-<h3 align="left">📌 Featured Projects:</h3>
+<br>
+
+<div align="center">
+
+### 🧠 Areas of Interest
+
+`Artificial Intelligence` · `Machine Learning` · `Computer Vision` · `NLP`
+`Data Analytics` · `Intelligent Systems` · `Full-Stack Development`
+
+</div>
+
+<br>
+
+---
+
+## 🚀 Selected Projects
 
 <table>
-  <tr>
-    <td width="50%" valign="top">
-      <h4>📈 <a href="https://github.com/AdityaGimas/dsp">StockSense LQ45</a></h4>
-      <p>Dashboard analisis saham LQ45 (IDX) berbasis React + FastAPI. Punya forecasting harga dengan XGBoost, indikator teknikal, analisis sentimen berita (IndoBERT + Groq LLM), data makroekonomi real, dan AI chat assistant yang bisa membaca gambar candlestick.</p>
-      <p><i>React • TypeScript • FastAPI • XGBoost • Groq LLM</i></p>
-    </td>
-    <td width="50%" valign="top">
-      <h4>🔄 <a href="https://github.com/AdityaGimas/Workflow-CI">Workflow-CI (MLOps Pipeline)</a></h4>
-      <p>Pipeline CI untuk MLflow project — mengotomasi training dan tracking model machine learning lewat GitHub Actions.</p>
-      <p><i>MLflow • GitHub Actions • Python</i></p>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <h4>☕ <a href="https://github.com/AdityaGimas/DataAnalyticdanVisualization">Kopiseru Area Manager Dashboard</a></h4>
-      <p>Dashboard interaktif berbasis Streamlit untuk memantau performa bisnis multi-cabang: revenue, profit margin, channel penjualan, dan tren transaksi dengan filter provinsi & tipe cabang.</p>
-      <p><i>Streamlit • Pandas • Plotly</i></p>
-    </td>
-    <td width="50%" valign="top">
-      <h4>🚲 <a href="https://github.com/AdityaGimas/AnalisisDataBikeSharing">Bike Sharing Data Analysis</a></h4>
-      <p>Analisis dan dashboard visualisasi pola penyewaan sepeda dari dataset day.csv & hour.csv.</p>
-      <p><i>Python • Streamlit • Pandas</i></p>
-    </td>
-  </tr>
+<tr>
+<td width="50%" valign="top">
+
+### 📈 StockSense LQ45
+
+An Indonesian stock analysis platform combining market data, machine learning, sentiment analysis, and an AI assistant.
+
+**Highlights**
+
+* 📊 LQ45 market analysis
+* 🤖 XGBoost price forecasting
+* 📰 Indonesian news sentiment analysis
+* 📉 Technical indicators
+* 💬 AI chat assistant
+* 📷 Candlestick image analysis
+
+**Stack**
+
+`React` `TypeScript` `FastAPI`
+`XGBoost` `IndoBERT` `Groq LLM`
+
+<a href="https://github.com/AdityaGimas/dsp">View Repository →</a>
+
+</td>
+
+<td width="50%" valign="top">
+
+### 🔄 Workflow-CI
+
+An MLOps-oriented CI pipeline for automating machine learning workflows and experiment tracking.
+
+**Highlights**
+
+* ⚙️ Automated ML workflow
+* 📦 Model training pipeline
+* 📊 MLflow experiment tracking
+* 🔁 GitHub Actions integration
+
+**Stack**
+
+`Python` `MLflow` `GitHub Actions`
+
+<a href="https://github.com/AdityaGimas/Workflow-CI">View Repository →</a>
+
+</td>
+</tr>
+
+<tr>
+<td width="50%" valign="top">
+
+### ☕ Kopiseru Dashboard
+
+Interactive business analytics dashboard for monitoring multi-branch coffee shop performance.
+
+**Highlights**
+
+* 💰 Revenue & profit analysis
+* 📊 Transaction trends
+* 🏪 Branch performance
+* 🔎 Province & branch filtering
+
+**Stack**
+
+`Python` `Streamlit` `Pandas` `Plotly`
+
+<a href="https://github.com/AdityaGimas/DataAnalyticdanVisualization">View Repository →</a>
+
+</td>
+
+<td width="50%" valign="top">
+
+### 🚲 Bike Sharing Analysis
+
+Exploratory data analysis and visualization of bike-sharing usage patterns.
+
+**Highlights**
+
+* 📊 Exploratory data analysis
+* 📈 Usage pattern visualization
+* 🕐 Hourly & daily analysis
+* 🎛️ Interactive dashboard
+
+**Stack**
+
+`Python` `Pandas` `Streamlit`
+
+<a href="https://github.com/AdityaGimas/AnalisisDataBikeSharing">View Repository →</a>
+
+</td>
+</tr>
 </table>
 
-<p align="left">
-Selain itu, aku juga mengerjakan sistem <b>deteksi & klasifikasi sampah real-time (9 kelas, termasuk kategori lokal "upakara") pakai YOLOv8</b> untuk proyek akhir mata kuliah Visi Komputer, dan riset tentang <b>Automatic Question Generation memakai Small Language Models</b> untuk penulisan akademik Bahasa Indonesia.
-</p>
+---
 
-<hr style="border: 1px solid #30363d;"/>
+## 🤖 Current Research & Projects
 
-<h3 align="left">📊 GitHub Stats:</h3>
-<table align="center">
-  <tr>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api?username=AdityaGimas&show_icons=true&theme=tokyonight&locale=en&hide_border=true" alt="AdityaGimas' GitHub Stats" />
-    </td>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AdityaGimas&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
-    </td>
-  </tr>
-</table>
+### 🗑️ Real-Time Waste Detection
 
-<hr style="border: 1px solid #30363d;"/>
+Computer Vision project for real-time waste detection and classification in Bali using **YOLOv8**.
 
-<h3 align="left">⚡ Fun Fact:</h3>
-<p align="left">Di luar coding, aku suka olahraga, main game, dan dengerin musik.</p>
+The system recognizes **9 waste categories**, including the locally relevant `upakara` category.
+
+`YOLOv8` · `PyTorch` · `OpenCV` · `Computer Vision`
+
+### 📝 Automatic Question Generation
+
+Research project exploring **Automatic Question Generation (AQG)** from Indonesian student academic writing using **Small Language Models**.
+
+The research focuses on generating questions according to **Bloom's Taxonomy** and comparing fine-tuning with prompt-based approaches.
+
+`SLM` · `NLP` · `Indonesian Language` · `AQG`
+
+---
+
+## 🛠️ Technology
+
+<div align="center">
+
+### AI / Data
+
+<img src="https://skillicons.dev/icons?i=python,pytorch,opencv" />
+
+<br>
+
+### Development
+
+<img src="https://skillicons.dev/icons?i=react,typescript,fastapi,streamlit" />
+
+<br>
+
+### Database & Tools
+
+<img src="https://skillicons.dev/icons?i=mysql,mongodb,git,github,arduino,android" />
+
+</div>
+
+---
+
+## 📊 GitHub Statistics
+
+<div align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=AdityaGimas&show_icons=true&hide_border=true&theme=github_dark&include_all_commits=true&count_private=true" />
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AdityaGimas&layout=compact&hide_border=true&theme=github_dark&langs_count=8" />
+
+</div>
+
+<br>
+
+<div align="center">
+
+<img width="90%" src="https://github-readme-streak-stats.herokuapp.com/?user=AdityaGimas&theme=github-dark-blue&hide_border=true" />
+
+</div>
+
+<br>
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=AdityaGimas&theme=darkhub&no-frame=true&no-bg=true&margin-w=8&row=1" />
+
+</div>
+
+---
+
+## 📈 Contribution Activity
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=AdityaGimas&theme=github-compact&hide_border=true&area=true" width="95%" />
+
+</div>
+
+---
+
+## 🌐 Connect
+
+<div align="center">
+
+<a href="https://www.linkedin.com/in/kadek-aditya-gimas-tangkas-kori-agung-902a80369/">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+
+<a href="mailto:tangkaskori05@gmail.com">
+<img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+
+<a href="https://instagram.com/aditangkas__">
+<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+</a>
+
+</div>
+
+<br>
+
+<div align="center">
+
+*"Building intelligent systems, one project at a time."*
+
+<br><br>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,100:0f2027&height=100&section=footer" />
+
+</div>
