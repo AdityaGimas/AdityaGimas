@@ -16,13 +16,6 @@ I'm an Information Technology student at Universitas Udayana interested in **Mac
 
 I enjoy building and experimenting with practical applications using data and AI.
 
-### Projects
-
-* **[StockSense LQ45](https://github.com/AdityaGimas/dsp)** — Stock analysis and forecasting platform.
-* **[Kopiseru Dashboard](https://github.com/AdityaGimas/DataAnalyticdanVisualization)** — Business analytics dashboard using Streamlit.
-* **[Bike Sharing Analysis](https://github.com/AdityaGimas/AnalisisDataBikeSharing)** — Data analysis and visualization.
-* **Waste Detection** — Real-time waste detection using YOLOv8.
-
 ### Tech Stack
 
 **Languages & Frameworks**
