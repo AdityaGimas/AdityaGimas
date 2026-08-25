@@ -19,11 +19,9 @@ I enjoy building and experimenting with practical applications using data and AI
 ### Projects
 
 * **[StockSense LQ45](https://github.com/AdityaGimas/dsp)** — Stock analysis and forecasting platform.
-* **[Workflow-CI](https://github.com/AdityaGimas/Workflow-CI)** — Machine learning workflow with MLflow and GitHub Actions.
 * **[Kopiseru Dashboard](https://github.com/AdityaGimas/DataAnalyticdanVisualization)** — Business analytics dashboard using Streamlit.
 * **[Bike Sharing Analysis](https://github.com/AdityaGimas/AnalisisDataBikeSharing)** — Data analysis and visualization.
 * **Waste Detection** — Real-time waste detection using YOLOv8.
-* **Automatic Question Generation** — Research using Small Language Models for Indonesian academic writing.
 
 ### Tech Stack
 
