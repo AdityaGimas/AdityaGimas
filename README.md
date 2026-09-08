@@ -12,7 +12,7 @@ Machine Learning · Computer Vision · NLP · Data Science
 
 ### About Me
 
-I'm an Information Technology student at Universitas Udayana with a strong interest in **Machine Learning, Computer Vision, Natural Language Processing, and Data Science**.
+I'm an Information Technology student at Universitas Udayana with a strong interest in **Machine Learning, Computer Vision, Natural Language Processing, and Data Science.
 
 I enjoy building practical, data-driven applications and exploring how machine learning can be applied to solve real-world problems. I have experience working with **Python, machine learning models, NLP, computer vision, and data analysis.
 
