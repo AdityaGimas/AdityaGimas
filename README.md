@@ -40,9 +40,9 @@ I enjoy building practical, data-driven applications and exploring how machine l
 
 <div align="center">
 
-<img height="160" src="https://github-readme-stats.vercel.app/api?username=AdityaGimas&show_icons=true&hide_border=true&theme=github_dark&include_all_commits=true&count_private=true" />
+<img src="https://github-readme-stats-eight-theta.vercel.app/api?username=AdityaGimas&show_icons=true&hide_border=true&theme=github_dark" />
 
-<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AdityaGimas&layout=compact&hide_border=true&theme=github_dark&langs_count=6" />
+<img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=AdityaGimas&layout=compact&hide_border=true&theme=github_dark" />
 
 </div>
 
